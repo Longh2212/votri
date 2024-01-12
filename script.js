@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "ehehe t biết mà =)))";
-  gif.src ="C:\Users\Admin\Desktop\long\messengerforu\av.gif";
+  gif.src ="https://github.com/Longh2212/votri/blob/main/lacduyt.gif?raw=true";
     noBtn.style.left = -50 + "px";
     noBtn.style.top = -50+ "px";
     yesBtn.style.left = -50 + "px";
